@@ -1,0 +1,18 @@
+name: BCG_analysis
+channels:
+  - bioconda
+  - defaults
+  - conda-forge
+
+dependencies:
+  - snakemake
+  - fastqc
+  - multiqc
+  - minmap2
+  - bcftools
+  - bwa
+  - iqtree
+  - perl-parallel-forkmanager
+  - wgsim
+  - samtools
+  - python

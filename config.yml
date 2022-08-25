@@ -1,0 +1,24 @@
+#fastq file directory
+fq_dir: /homedirsbugs2/sghms/shares/bunit/Sandeep/BCG/raw_data/isolates
+
+#fastq file extension
+file_extension: fastq.gz
+
+#set the output directory
+output_dir: results/
+
+#reference genome path
+ref_genome_dir: genome/
+
+#ref genome name without extension
+ref_genome_name: NC_008769
+
+#extension of the ref genome
+ref_genome_ext: fna
+
+#genome version
+ref_genome_version: 1
+
+#path for the reference strain
+reference_strains: /homedirsbugs2/sghms/shares/bunit/Sandeep/BCG/BCG_ncbi_references/
+
