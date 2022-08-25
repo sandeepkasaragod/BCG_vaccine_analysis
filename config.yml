@@ -1,5 +1,5 @@
 #fastq file directory
-fq_dir: /homedirsbugs2/sghms/shares/bunit/Sandeep/BCG/raw_data/isolates
+fq_dir: raw_files
 
 #fastq file extension
 file_extension: fastq.gz
@@ -20,5 +20,5 @@ ref_genome_ext: fna
 ref_genome_version: 1
 
 #path for the reference strain
-reference_strains: /homedirsbugs2/sghms/shares/bunit/Sandeep/BCG/BCG_ncbi_references/
+reference_strains: reference_strains
 
