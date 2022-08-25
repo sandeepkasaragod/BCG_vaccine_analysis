@@ -12,7 +12,7 @@ This workflow constructs a phylogeny tree using the reference genome strians. He
 <img src="workflow.png" width="800px" height="auto">
 </p>
 
-## Dependencies
+## Installation
 The package requires “conda” to be installed and add the following channels 
 ```bash
  conda config --add channels defaults
