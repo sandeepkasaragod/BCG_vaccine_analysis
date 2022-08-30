@@ -1,5 +1,5 @@
 # BCG_vaccine_analysis
-This workflow constructs a phylogeny tree using the reference genome strians. Here are the steps it performs to create a phylogeny tree.
+This workflow constructs a phylogeny tree using the reference genome. Here are the steps it performs to create a phylogeny tree.
   - Step1: Align the fastq files to reference genome
   - Step2: Site calling on the aligned files
   - Step3: Simulated read creation from reference strains
