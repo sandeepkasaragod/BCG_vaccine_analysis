@@ -5,14 +5,15 @@ channels:
   - conda-forge
 
 dependencies:
-  - snakemake
-  - fastqc
-  - multiqc
-  - minmap2
-  - bcftools
-  - bwa
-  - iqtree
-  - perl-parallel-forkmanager
-  - wgsim
-  - samtools
-  - python
+  - snakemake=7.18.1
+  - fastqc=0.11.9
+  - multiqc=1.13
+  - minmap2=
+  - bcftools=1.16
+  - bwa=0.7.17
+  - iqtree=2.2.0.3
+  - perl-parallel-forkmanager=1.17
+  - wgsim=1.0
+  - samtools=1.16.1
+  - python=3.11.0
+  - perl=5.26.2
